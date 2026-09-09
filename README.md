@@ -29,16 +29,13 @@ I may also contribute to the localization of other open-source software, securit
 
 Other open-source software and localization projects may follow as time permits.
 
-## ☕ Support My Work
+# 💙 Support My Research
 
-Most of my research, analysis, blog posts, and localization work is done independently in my spare time.
+I spend my time researching malware, phishing sites, and cybersecurity threats and sharing what I learn.
 
-If you find my security research, technical articles, or open-source localization work useful, you can support my work through Ko-fi.
+If my work has been useful to you, even a small coffee helps me continue researching and creating new content.
 
-Any amount is appreciated and helps me continue researching, testing tools, maintaining the blog, and contributing to open-source projects.
-
-☕ **Ko-fi:** [https://ko-fi.com/sakai38666](https://ko-fi.com/sakai38666)
-
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20My%20Research-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sakai38666)
 ## 🔗 Links
 
 - **Blog:** [https://wezard4u.tistory.com/](https://wezard4u.tistory.com/)
