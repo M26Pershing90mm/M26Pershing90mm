@@ -24,6 +24,7 @@ I try to explain not only what a threat does, but also how it works from a techn
 When I have free time, I also contribute to Korean localization of open-source security and reverse-engineering tools.
 
 - **PE-bear — Korean localization**
+- **CanvasBlocker** — Korean localization
 I may also contribute to the localization of other open-source software, security tools, and technical applications as time permits.
 
 Other open-source software and localization projects may follow as time permits.
