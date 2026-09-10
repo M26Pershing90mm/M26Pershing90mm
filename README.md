@@ -36,6 +36,7 @@ I spend my time researching malware, phishing sites, and cybersecurity threats a
 If my work has been useful to you, even a small coffee helps me continue researching and creating new content.
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20My%20Research-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sakai38666)
+
 이 프로젝트가 도움이 되셨다면 카카오페이로 따뜻한 응원을 보내주세요!
 
 <p align="center">
