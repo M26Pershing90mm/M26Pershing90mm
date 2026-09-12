@@ -24,11 +24,17 @@ I try to explain not only what a threat does, but also how it works from a techn
 When I have free time, I also contribute to the Korean localization of open-source software, including security, privacy, multimedia, and AI tools.
 
 **PE-bear** — Korean localization
+
 **CanvasBlocker** — Korean localization
+
 **Sandboxie Plus** — Korean localization
+
 **AIMP** — Korean localization
+
 **Upscayl** — Korean localization
+
 **Koodo Reader** — Korean localization
+
 Other open-source software and localization projects may follow as time permits.
 # 💙 Support My Research
 
