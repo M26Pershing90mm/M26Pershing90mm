@@ -21,13 +21,13 @@ I try to explain not only what a threat does, but also how it works from a techn
 
 ## 🌏 Open-Source Localization
 
-When I have free time, I also contribute to Korean localization of open-source security and reverse-engineering tools.
-When I have free time, I also contribute to Korean localization of open-source and security-related software.
+When I have free time, I also contribute to the Korean localization of open-source software, including security, privacy, multimedia, and AI tools.
 
 * **PE-bear** — Korean localization
 * **CanvasBlocker** — Korean localization
-* **AIMP** — Korean localization
 * **Sandboxie Plus** — Korean localization
+* **AIMP** — Korean localization
+* **Upscayl** — Korean localization
 
 Other open-source software and localization projects may follow as time permits.
 # 💙 Support My Research
