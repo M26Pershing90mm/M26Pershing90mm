@@ -1,19 +1,19 @@
-# Sakai
+# 🔬 Sakai
 
 Independent cybersecurity blogger and security researcher based in South Korea.
 
-I run **꿈을꾸는 파랑새 (Dreaming Bluebird)**, a Korean-language blog focused primarily on hands-on analysis of malware, phishing websites, malicious scripts, suspicious files, and related cybersecurity threats.
+I run 꿈을꾸는 파랑새 (Dreaming Bluebird), a Korean-language blog focused primarily on hands-on analysis of malware, phishing websites, malicious scripts, suspicious files, and related cybersecurity threats.
 
 My goal is not simply to identify something as malicious.
 
 I try to understand:
 
-> **What does it do?**  
-> **How does it work?**  
-> **What techniques does it use?**  
-> **What indicators does it leave behind?**
+> What does it do?  
+> How does it work?  
+> What techniques does it use?  
+> What indicators does it leave behind?
 
-🌐 **Blog:** [꿈을꾸는 파랑새 / WEZARD4U'S BLOG](https://wezard4u.tistory.com/)
+🌐 Blog: [꿈을꾸는 파랑새 / WEZARD4U'S BLOG](https://wezard4u.tistory.com/)
 
 ---
 
@@ -109,9 +109,9 @@ In these cases, I try to separate:
 
 When the available evidence is insufficient, I prefer terms such as:
 
-- `suspected`
-- `likely`
-- `possibly related`
+- suspected
+- likely
+- possibly related
 
 rather than presenting attribution as a confirmed fact.
 
@@ -131,6 +131,8 @@ Depending on the case, my analysis may involve:
 - 🧭 Cross-checking indicators with existing reports
 
 I try to base my conclusions on observable technical evidence whenever possible.
+
+The purpose of my analysis is to understand how threats operate, document useful indicators, and share technical information that may help with defensive security and threat awareness.
 
 ---
 
@@ -165,7 +167,7 @@ Maintaining this work may require:
 - 📝 Technical documentation
 - 🌏 Open-source localization
 
-If my analysis or articles have been useful to you, you can support my work through **Ko-fi**.
+If my analysis or articles have been useful to you, you can support my work through Ko-fi.
 
 Even a small contribution helps me continue researching, analyzing, documenting, and sharing technical information.
 
@@ -184,9 +186,9 @@ Thank you for supporting my work. 💙
 
 ## 🇰🇷 한국에서 후원하기
 
-저는 악성코드, 피싱 사이트, 악성 스크립트, 의심스러운 파일 등 실제 사이버 위협을 직접 분석하고 그 과정에서 확인한 내용을 블로그를 통해 공유하고 있습니다.
+저는 악성코드, 피싱 사이트, 악성 스크립트, 의심스러운 파일 등 실제 사이버 위협을 직접 분석하고 그 과정에서 확인한 내용을 꿈을꾸는 파랑새 블로그를 통해 공유하고 있습니다.
 
-단순히 악성 여부만 확인하는 것이 아니라 가능한 범위에서 다음과 같은 내용을 살펴보고 있습니다.
+단순히 악성 여부를 확인하는 것에 그치지 않고 가능한 범위에서 다음과 같은 내용을 살펴보고 있습니다.
 
 - 🦠 악성코드 동작 방식
 - 🎣 피싱 사이트 구조
@@ -198,7 +200,7 @@ Thank you for supporting my work. 💙
 
 또한 시간이 허락할 때 오픈소스 프로그램의 한국어 번역과 현지화 작업에도 참여하고 있습니다.
 
-제 분석 글이나 기술 자료가 도움이 되셨다면 **카카오페이**를 통해 응원해 주실 수 있습니다.
+제 분석 글이나 기술 자료가 도움이 되셨다면 카카오페이를 통해 응원해 주실 수 있습니다.
 
 <p align="center">
   <img
@@ -211,9 +213,9 @@ Thank you for supporting my work. 💙
 
 보내주시는 후원은 다음과 같은 활동에 도움이 됩니다.
 
-- 🧪 악성코드 분석
+- 🔬 보안 분석 및 연구
+- 🦠 악성코드 분석
 - 🎣 피싱 사이트 분석
-- 🔐 보안 연구
 - 🧰 분석 도구 활용
 - 🌐 블로그 운영
 - 📝 기술 자료 작성
@@ -231,7 +233,7 @@ Thank you for supporting my work. 💙
 
 ## ⚠️ Security Research Notice
 
-Malware, phishing URLs, malicious scripts, suspicious files, and other potentially harmful materials discussed in my research should only be handled in properly isolated and controlled environments.
+Malware, phishing URLs, malicious scripts, suspicious files, and other potentially harmful materials discussed in my research should be handled only in appropriate controlled environments.
 
 The information published through my blog and GitHub is intended primarily for:
 
@@ -246,12 +248,21 @@ The information published through my blog and GitHub is intended primarily for:
 
 ## 🔗 Links
 
-- 🌐 **Blog:** [꿈을꾸는 파랑새](https://wezard4u.tistory.com/)
-- ☕ **Ko-fi:** [Support My Research](https://ko-fi.com/sakai38666)
-- 🦋 **Bluesky:** [sakaijjang.bsky.social](https://bsky.app/profile/sakaijjang.bsky.social)
-- 𝕏 **X / Twitter:** [@sakaijjang](https://www.twitter.com/sakaijjang)
-- 💻 **GitHub:** [@M26Pershing90mm](https://github.com/M26Pershing90mm)
+🌐 Blog  
+[꿈을꾸는 파랑새](https://wezard4u.tistory.com/)
+
+☕ Ko-fi  
+[Support My Research](https://ko-fi.com/sakai38666)
+
+🦋 Bluesky  
+[sakaijjang.bsky.social](https://bsky.app/profile/sakaijjang.bsky.social)
+
+𝕏 X / Twitter  
+[@sakaijjang](https://www.twitter.com/sakaijjang)
+
+💻 GitHub  
+[@M26Pershing90mm](https://github.com/M26Pershing90mm)
 
 ---
 
-### 🔍 Analyze · Understand · Document · Share
+### 🔬 Analyze · Understand · Document · Share
