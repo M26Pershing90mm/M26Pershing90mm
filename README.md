@@ -163,7 +163,7 @@ Other open-source localization projects may follow as time permits.
 
 ---
 
-<h2>☕ Support My Research</h2>
+<h2>💖 Sponsor this project | 독립 보안 연구 후원</h2>
 
 I spend a significant amount of my free time analyzing malware, phishing websites, malicious scripts, suspicious files, and related cybersecurity threats.
 
@@ -181,12 +181,27 @@ If my analysis or articles have been useful to you, you can support my work thro
 
 Even a small contribution helps me continue analyzing threats, documenting findings, maintaining my analysis environment, and sharing technical information.
 
-<a href="https://ko-fi.com/sakai38666">
-  <img
-    src="./%EB%B0%A4%EC%9D%98%20%EC%9C%84%ED%98%91%20%EB%B6%84%EC%84%9D%EC%8B%A4.png"
-    width="100%"
-    alt="Support my malware and phishing analysis on Ko-fi">
-</a>
+<table>
+  <tr>
+    <td align="center" width="52%">
+      <strong>💖 Sponsor this project · Ko-fi</strong><br><br>
+      <a href="https://ko-fi.com/sakai38666">
+        <img src="./%EB%B0%A4%EC%9D%98%20%EC%9C%84%ED%98%91%20%EB%B6%84%EC%84%9D%EC%8B%A4.png" width="330" alt="독립 보안 연구 후원 안내 / Support independent security research">
+      </a><br><br>
+      <a href="https://ko-fi.com/sakai38666">
+        <img src="https://img.shields.io/badge/Sponsor_on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Sponsor on Ko-fi">
+      </a><br><br>
+      <sub>Ko-fi 후원 페이지 / International support</sub>
+    </td>
+    <td align="center" width="48%">
+      <strong>🇰🇷 카카오페이 QR / KakaoPay</strong><br><br>
+      <img src="./kakaopay-qr.png" width="205" alt="카카오페이 후원용 QR 코드 / KakaoPay support QR code"><br><br>
+      <sub>카카오톡·카카오페이 앱에서 QR 코드를 스캔하세요.<br>Scan this QR using KakaoTalk or KakaoPay.</sub>
+    </td>
+  </tr>
+</table>
+
+> **후원 안내 / Support:** Ko-fi는 왼쪽의 버튼 또는 이미지를 클릭하세요. 카카오페이는 오른쪽 QR을 앱으로 스캔하세요. 서로 다른 후원 방법입니다. / Use the Ko-fi link on the left, or scan the KakaoPay QR on the right. These are separate support options.
 
 ☕ Ko-fi: [https://ko-fi.com/sakai38666](https://ko-fi.com/sakai38666)
 
@@ -224,12 +239,7 @@ Regular security analysis, technical articles, and useful information will conti
 
 <h3>💙 카카오페이로 응원하기</h3>
 
-<img
-  src="./kakaopay-qr.png"
-  width="200"
-  alt="카카오페이 후원 QR 코드">
-
-📱 카카오톡 또는 카카오페이에서 QR 코드를 스캔하여 후원하실 수 있습니다.
+카카오페이 QR 코드는 위의 **Sponsor this project | 독립 보안 연구 후원** 영역에 직접 표시되어 있습니다. 카카오톡 또는 카카오페이 앱에서 스캔하여 후원할 수 있습니다.
 
 보내주시는 후원은 다음과 같은 활동에 도움이 됩니다.
 
